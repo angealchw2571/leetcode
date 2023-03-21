@@ -8,6 +8,11 @@ Here is a list of the LeetCode problems I have solved so far:
 * [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
 
 
+# Codewars Accomplishments
+Here is a list of the Codewars problems I have solved so far:
+
+* [Digital Pairs](https://www.codewars.com/kata/541c8630095125aba6000c00)
+* [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db)
 
 
 If you would like to connect with me or collaborate on any coding projects, please feel free to reach out! 
