@@ -7,6 +7,7 @@ Here is a list of the LeetCode problems I have solved so far:
 * [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 * [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
 * [Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
+* [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 
 
 # Codewars Accomplishments
